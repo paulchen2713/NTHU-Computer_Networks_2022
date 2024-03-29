@@ -1,0 +1,23 @@
+gcc -o Lab1 Lab1.c
+
+./Lab1
+
+
+sudo dpkg -i 軟體套件名.deb
+
+
+cd Desktop/
+
+
+gcc lab1.c
+
+./a.out
+
+
+
+can.cs.nthu.edu.tw/index.php
+
+president.site.nthu.edu.tw/index.php
+
+
+
