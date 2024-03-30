@@ -1,0 +1,39 @@
+cd Desktop/
+
+######################
+
+如果是 stop and wait
+
+gcc -o client client.c
+
+gcc -o server server.c
+
+
+######################
+
+如果是 stop and wait
+
+gcc -o client client.c
+
+gcc server.c -lpthread -o server -lm
+
+######################
+
+開2個 terminal
+
+./server 9999
+
+#####################
+
+./client
+
+127.0.0.1
+
+9999
+
+download video.mp4
+
+#####################
+
+有附上makefile的,到makefile的資料夾,terminal 執行 make
+複製server 和 client檔案到桌面
